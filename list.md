@@ -34,5 +34,4 @@
 30	|	Tensorpad	|	https://www.tensorpad.com
 31	|	Vast.ai	|	https://vast.ai
 32	|	Vectordash	|	https://vectordash.com
-
 33  | Algorithmia | https://algorithmia.com/
