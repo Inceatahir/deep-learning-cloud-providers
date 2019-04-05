@@ -1,4 +1,4 @@
-# Deep Learning Cloud Service Providers -> 
+# Deep Learning Cloud Service Providers
 
 | #  | Name | URL |
 | ------------- | ------------- | ------------- |
